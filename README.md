@@ -10,8 +10,8 @@ My solution was to plot a histogram of the 'Star type' column of the csv when co
 ![image](https://i.imgur.com/mRXltm3.png)  
 
 2. Finding correlations in the data  
-3. This was pretty much identical with the first problem, only difference being that instead of plotting a histogram of one variable, I plotted a scatter plot against two variables.
-4. Finding which properties are most influential in classifying a star's type  
+This was pretty much identical with the first problem, only difference being that instead of plotting a histogram of one variable, I plotted a scatter plot against two variables.
+3. Finding which properties are most influential in classifying a star's type  
 After looking at the graphs, I saw that Absolute magnitude, luminosity, and radius were the most influential  
 ![image](https://i.imgur.com/fglRArI.png)
 4. Creating a Hertzsprung-Russel diagram  
